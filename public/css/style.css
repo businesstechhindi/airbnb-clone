@@ -582,3 +582,10 @@ input[type="range"]::-moz-range-thumb {
     display: none;
   }
 }
+
+@media screen and (max-width:750px){
+  html,body{
+    touch-action: pan-x pan-y;
+    zoom: reset;
+  }
+}
