@@ -177,7 +177,7 @@ function sendOTP(firstName, email) {
       <table border="0" cellpadding="0" cellspacing="0" class="image_block block-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
       <tr>
       <td class="pad" style="padding-bottom:25px;padding-top:22px;width:100%;padding-right:0px;padding-left:0px;">
-      <div align="center" class="alignment" style="line-height:10px"><img alt="I'm an image" src="https://1000logos.net/wp-content/uploads/2017/08/Airbnb-logo.jpg" style="height: auto; display: block; border: 0; max-width: 128px; width: 100%;" title="I'm an image" width="128"/></div>
+      <div align="center" class="alignment" style="line-height:10px"><img alt="I'm an image" src="https://res.cloudinary.com/dgm9yxyho/image/upload/v1690084840/Airbnb-logo-removebg_ra67zo.png" style="height: auto; display: block; border: 0; max-width: 128px; width: 100%;" title="I'm an image" width="128"/></div>
       </td>
       </tr>
       </table>
@@ -366,7 +366,7 @@ function sendOTP(firstName, email) {
       <td class="pad" style="padding-bottom:30px;padding-left:40px;padding-right:40px;padding-top:20px;">
       <div style="font-family: sans-serif">
       <div class="" style="font-size: 12px; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif; mso-line-height-alt: 14.399999999999999px; color: #555555; line-height: 1.2;">
-      <p style="margin: 0; font-size: 14px; text-align: left; mso-line-height-alt: 16.8px;"><span style="color:#95979c;font-size:12px;">Airbnb Copyright © 2023</span></p>
+      <p style="margin: 0; font-size: 14px; text-align: center; mso-line-height-alt: 16.8px;"><span style="color:#95979c;font-size:12px;">Airbnb Copyright © 2023</span></p>
       </div>
       </div>
       </td>
